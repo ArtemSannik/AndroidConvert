@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My converter</string>
+    <string name="convert_number">Введите сюда число</string>
+    <string name="convert_btn">Конвертировать</string>
+    <string name="text_tonna">Тонны:</string>
+    <string name="text_kiligramm">Килограммы:</string>
+    <string name="text_gramm">Граммы:</string>
+
+</resources>
